@@ -2,6 +2,9 @@
 `COMP 562 Fall 2022 Final Project`
 
 Authors: Amit Parikh, Ernest Ermongkonchai, Kaan Nymaan, Luke Schmidt, Aryaman Agrawal
+This is a copy of the original Repo for display purposes on my own github portfolio:
+The original version made on my groupmates account can be found here:
+https://github.com/Amitparikh1/COMP-562-FinalProject/tree/main
 
 ## Abstract
 
